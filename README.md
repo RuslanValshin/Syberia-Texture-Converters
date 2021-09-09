@@ -1,4 +1,4 @@
-# Syberia-Texture-Converters
+# Syberia Texture Converters
 Инструкция:
 1. Скомпилировать
 2. Положить обе программы в папку игры (программа должна быть в той же папке, что и папка Textures)
